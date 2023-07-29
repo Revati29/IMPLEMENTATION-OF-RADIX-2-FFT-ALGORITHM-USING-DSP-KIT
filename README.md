@@ -1,1 +1,1 @@
-# IMPLEMENTATION-OF-RADIX-2-FFT-ALGORITHM-USING-DSP-KIT
+# Implementation-Of-Radix-2-FFT-Algoritm-Using-DSP-Kit
